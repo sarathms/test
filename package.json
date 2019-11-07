@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Sandbox to play with",
+  "main": "index.js",
+  "repository": "git@github.com:sarathms/test.git",
+  "author": "Sarath M S <sarath.ms@gmail.com>",
+  "license": "MIT"
+}
